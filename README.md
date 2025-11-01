@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=I'm+Jefry+Paul;Full+Stack+Developer;MERN+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-
-
-<p align="center">
-  🚀 MERN Stack Developer | 💻 Full Stack Web Developer | 🌱 Lifelong Learner
-</p>
-
 ---
 
 ### 👨‍💻 About Me
