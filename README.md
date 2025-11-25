@@ -72,7 +72,7 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefrypaul&show_icons=true&theme=radical" alt="Jefry's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jefrypaul&show_icons=true&theme=radical" alt="Jefry's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefrypaul&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
